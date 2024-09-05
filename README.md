@@ -1,4 +1,4 @@
-# BonApetite_Web
+# BonApetit_Web
 As part of my main hobby, I built a recipe website featuring both sweet and savory recipes.  
 The website includes two main interfaces:
 - User Interface:
